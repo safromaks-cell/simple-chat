@@ -1,0 +1,11 @@
+{
+  "default": 16384,
+  "profiles": [
+    { "match": "qwen3.5-uncensored", "tokens": 32768 },
+    { "match": "qwen3-8-27b", "tokens": 16384 },
+    { "match": "cyberstag", "tokens": 16384 },
+    { "match": "qwen3-8-9b", "tokens": 32768 },
+    { "match": "gemma-4-12b", "tokens": 32768 },
+    { "match": "cyber-ornith", "tokens": 32768 }
+  ]
+}
